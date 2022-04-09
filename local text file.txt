@@ -1,1 +1,3 @@
 local text file we have to save on remote repository means on git hub
+now here we are editing this file and checking for pull commmand 
+git pull origin master
